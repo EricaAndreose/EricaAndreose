@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricaAndreose 
-- 👀 I’m interested in art, cinema and digital humanities.
-- 🌱 I’m currently learning html language!
+- 👀 I’m interested in history of art, cinema and digital humanities.
+- 🌱 I’m currently learning html, css and python!
 - 📫 You can reach me at erica.andreose @ gmail.com
 
 <!---
