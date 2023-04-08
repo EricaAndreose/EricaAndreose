@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @EricaAndreose 
+- 👋 Hi, I’m @EricaAndreose, a DHDK student from Italy!
 - 👀 I’m interested in history of art, cinema and digital humanities.
-- 🌱 I’m currently learning html, css and python!
+- ✨ I love to make movies!
+- 🌱 I’m currently learning html, css, javascript and python!
 - 📫 You can reach me at erica.andreose @ gmail.com
 
 <!---
