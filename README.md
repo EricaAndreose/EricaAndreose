@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricaAndreose, a DHDK student from Italy!
-- 👀 I’m interested in digital humanities, history of art and literature.
-- ✨ I love to watch (and make) movies!
-- 🌱 I’m currently learning html, css, javascript and python!
+- 👀 I’m interested in digital humanities as a chance to connect technologies with history of art and literature.
+- ✨ I love to watch (and make) movies! I have a little independent film production house called Alba Nera Production.
+- 🌱 I’m currently learning html, css, javascript, python and node.js!
 - 📫 You can reach me at erica.andreose @ gmail.com
 - :star: You can visit [My Website here](https://ericaandreose.github.io/EricaAndreose/)
 <!---
